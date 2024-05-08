@@ -1,0 +1,8 @@
+body{
+    display: flex; /* Make the body a flex container */
+    flex-direction: column;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Set the height of the body to 100% of the viewport height */
+    margin: 0; /* Remove default margin */
+}
